@@ -5,7 +5,7 @@
 #### Status: _Em desenvolvimento_
 
 ![](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/Print/Ecoleta.png)
-<a href="https://rocketseat.com.br/")>
+<a href="https://rocketseat.com.br/">
 ![foo](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/rock.png)
 </a>
 <a href="https://nextlevelweek.com/">
