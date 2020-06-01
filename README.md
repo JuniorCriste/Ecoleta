@@ -5,9 +5,11 @@
 #### Status: _Em desenvolvimento_
 
 ![](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/Print/Ecoleta.png)
-
-![foo](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/rock.png)(https://rocketseat.com.br/)
-![foo](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/nlw.png)(https://nextlevelweek.com/)
-
+<a href="https://rocketseat.com.br/")>
+![foo](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/rock.png)
+</a>
+<a href="https://nextlevelweek.com/">
+![foo](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/nlw.png)
+</a>
 
 ##### Versão por [Junior Criste](https://github.com/JuniorCriste)
