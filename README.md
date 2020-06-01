@@ -6,7 +6,7 @@
 
 ![](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/Print/Ecoleta.png)
 
-![](https://avatars0.githubusercontent.com/u/28929274 =100x100)
+![](https://avatars0.githubusercontent.com/u/28929274?w=100)
 
 
 ##### Versão por [Junior Criste](https://github.com/JuniorCriste)
