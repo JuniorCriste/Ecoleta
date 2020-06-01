@@ -6,8 +6,8 @@
 
 ![](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/Print/Ecoleta.png)
 
-![](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/rock.png)(https://rocketseat.com.br/)
-![](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/nlw.png)(https://nextlevelweek.com/)
+![foo](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/rock.png)(https://rocketseat.com.br/)
+![foo](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/nlw.png)(https://nextlevelweek.com/)
 
 
 ##### Versão por [Junior Criste](https://github.com/JuniorCriste)
