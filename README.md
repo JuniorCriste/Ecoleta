@@ -2,12 +2,12 @@
 #### 01/06 à 07/06 de 2020
 #### Rocketseat 2020
 
- <a href="https://rocketseat.com.br/">
-![](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/rock.png)
-</a> 
+ <a href="https://rocketseat.com.br/"> 
+ ![](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/rock.png) 
+ </a> 
 
- <a href="https://nextlevelweek.com/">
-![](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/nlw.png)
+ <a href="https://nextlevelweek.com/"> 
+ ![](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/nlw.png) 
  </a>
 
 #### Status: _Em desenvolvimento_
