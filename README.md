@@ -3,11 +3,11 @@
 #### Rocketseat 2020
 
  <a href="https://rocketseat.com.br/"> 
- ![](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/rock.png) 
+ <img src="https://github.com/JuniorCriste/Ecoleta/blob/master/assets/rock.png"> 
  </a> 
 
  <a href="https://nextlevelweek.com/"> 
- ![](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/nlw.png) 
+ <img src="https://github.com/JuniorCriste/Ecoleta/blob/master/assets/nlw.png"> 
  </a>
 
 #### Status: _Em desenvolvimento_
