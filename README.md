@@ -14,6 +14,7 @@
 ##### Dia 1: _Completo_
 ##### Dia 2: _Completo_
 ##### Dia 3: _Completo_
+##### Dia 4: _Completo_
 
 ![](https://github.com/JuniorCriste/Ecoleta/blob/master/assets/Print/Ecoleta.png)
 
