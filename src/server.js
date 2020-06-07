@@ -32,4 +32,4 @@ server.get("/search", (req, res) => {
 
 
 // ligar o servidor
-server.listen(9696)
+server.listen(3000)
